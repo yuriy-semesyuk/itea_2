@@ -7,7 +7,6 @@
       <change afterPath="$PROJECT_DIR$/../Lv.st/templates/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../github.stady/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../itea/1intro/start.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2lesson/lesson2.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../semyu/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../semyu/app.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../semyu/static/add_admin.css" afterDir="false" />
@@ -108,14 +107,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="51" y="23" width="1629" height="1027" extended-state="6" />
+    <frame x="51" y="23" width="1629" height="1027" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
