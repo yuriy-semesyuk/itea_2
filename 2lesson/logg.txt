@@ -1,0 +1,4 @@
+(32, 23, 323)
+{}Arguments are written
+(23, 324, 43, 34)
+{}Arguments are written
